@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rezakusnadi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in particulary onto Data Science Lately and still learn it
+- 🌱 I’m currently learning Data Science, python, R
 - 📫 How to reach me ...
 
 <!---
