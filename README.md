@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rezakusnadi
-- 👀 I’m interested particulary onto Data Science Lately and still learn it
+- 👀 I’m interested particulary onto Data Science
 - 🌱 I’m currently learning Data Science, python, R
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/rezakusnadi/)
 
